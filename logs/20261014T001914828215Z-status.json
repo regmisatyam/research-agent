@@ -1,0 +1,6 @@
+{
+  "run_id": "20261014T001914828215Z",
+  "status": "interrupted_or_failed",
+  "updated_at": "2026-10-14T00:24:50.515659+00:00",
+  "error": "Conversation run failed for id=f2862114-30b9-434a-bd6e-d271f0c48797: LLMServiceUnavailableError: litellm.InternalServerError: InternalServerError: OpenAIException - Connection error."
+}

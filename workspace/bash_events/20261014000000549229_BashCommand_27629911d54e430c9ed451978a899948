@@ -1,0 +1,8 @@
+{
+  "command": "printf 'connected' > /workspace/.mount-check",
+  "cwd": null,
+  "timeout": 30,
+  "id": "27629911d54e430c9ed451978a899948",
+  "timestamp": "2026-10-14T00:00:00.549229Z",
+  "kind": "BashCommand"
+}

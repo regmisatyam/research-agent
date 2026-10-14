@@ -1,0 +1,6 @@
+{
+  "run_id": "20261014T000756510382Z",
+  "status": "interrupted_or_failed",
+  "updated_at": "2026-10-14T00:17:02.186235+00:00",
+  "error": "Conversation run failed for id=b0d88738-2bdf-40a0-89fe-4300a8798a34: LLMTimeoutError: litellm.Timeout: LLM hard timeout after 180 seconds"
+}
